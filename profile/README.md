@@ -1,30 +1,16 @@
 # 🌱 OpenBrighton
 
-**Open source technology for a better Brighton, NY.**  
-Building digital tools that make life easier, more accessible, inclusive, and more connected — powered by volunteers, neighbors, and local engineers.
+**Open source software for a better Brighton, NY.** 
+
+We aim to build digital tools that make life easier, more accessible, inclusive, and more connected — powered by volunteers, neighbors, and local engineers.
 
 ---
 
 ## 🎯 Mission
 
-OpenBrighton is a community-led, open source initiative to improve access to public services and civic information in Brighton, NY. From notifications about yard debris pickup to AI-powered guides for permits, we’re exploring how modern, ethical technology can serve residents of all ages and backgrounds.
+OpenBrighton is a community-led, open source initiative to improve access to public services, civic information, and efficiency in Brighton, NY. We’re exploring how modern, ethical technology can serve residents of all ages and backgrounds.
 
-This project is **not affiliated with or sponsored by the Town of Brighton**. We are an independent group of residents, volunteers, and technologists working in the public interest.
-
----
-
-## 🚀 Our First Project: Yard Debris Notifications
-
-No more wondering if you missed pickup day.
-
-We’re creating a simple tool that will let you sign up to get alerts — via email or SMS — when yard debris pickup is scheduled for your address or neighborhood.
-
-- Friendly reminders, right on time  
-- Privacy-first: no tracking or logins required  
-- Open source, free to use, and built with love
-
-👉 _Try it soon at [openbrighton.org](https://openbrighton.org)_  
-👉 _Got an idea? Submit it at [openbrighton.org/ideas](https://openbrighton.org/ideas)_
+This project is **not affiliated with or sponsored by the Town of Brighton**. We are an independent group of residents, neighbors, and technologists working to better our community.
 
 ---
 
